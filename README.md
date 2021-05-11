@@ -19,9 +19,3 @@ And I also created a client_example for you guys to understand what happens when
 
 ___
 
-
-![TIM](https://github.com/yingshaoxo/kivy-chat/raw/master/screenshots/TIM.png "TIM")
-
-![start](https://github.com/yingshaoxo/kivy-chat/raw/master/screenshots/start.png "start")
-
-![chat](https://github.com/yingshaoxo/kivy-chat/raw/master/screenshots/chat.png "chat")
